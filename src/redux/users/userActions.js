@@ -14,8 +14,8 @@ export const updateUserSuccess = (message) => {
 //In this method the user data is updated using axios put call and the dispatch is been returned
 export const updateUsers = () => {
   let userData = {
-    name: "trail",
-    email: "trail@sample.com",
+    name: "trail12",
+    email: "trail12@sample.com",
     gender: "male",
     status: "active",
   };
